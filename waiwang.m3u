@@ -1,0 +1,365 @@
+#EXTM3U
+#EXTINF:-1 ,导视
+http://win88.eu.org:7088/udp/225.1.2.241:11908
+#EXTINF:-1 ,4K试验
+http://win88.eu.org:7088/udp/225.1.2.237:11530
+#EXTINF:-1 ,CCTV1
+http://win88.eu.org:7088/udp/225.1.2.202:11770
+#EXTINF:-1 ,CCTV1
+http://win88.eu.org:7088/udp/225.1.2.222:11446
+#EXTINF:-1 ,CCTV1
+http://win88.eu.org:7088/udp/225.1.2.47:10276
+#EXTINF:-1 ,CCTV1
+http://win88.eu.org:7088/udp/225.1.2.54:11380
+#EXTINF:-1 ,CCTV2
+http://win88.eu.org:7088/udp/225.1.2.2:10006
+#EXTINF:-1 ,CCTV2
+http://win88.eu.org:7088/udp/225.1.2.78:10462
+#EXTINF:-1 ,CCTV3
+http://win88.eu.org:7088/udp/225.1.2.141:10864
+#EXTINF:-1 ,CCTV3
+http://win88.eu.org:7088/udp/225.1.2.146:10894
+#EXTINF:-1 ,CCTV3
+http://win88.eu.org:7088/udp/225.1.2.55:10324
+#EXTINF:-1 ,CCTV4
+http://win88.eu.org:7088/udp/225.1.2.197:11806
+#EXTINF:-1 ,CCTV4
+http://win88.eu.org:7088/udp/225.1.2.3:11368
+#EXTINF:-1 ,CCTV4K
+http://win88.eu.org:7088/udp/225.1.2.245:11932
+#EXTINF:-1 ,CCTV4美洲
+http://win88.eu.org:7088/udp/225.1.2.183:11824
+#EXTINF:-1 ,CCTV5
+http://win88.eu.org:7088/udp/225.1.2.142:10870
+#EXTINF:-1 ,CCTV5
+http://win88.eu.org:7088/udp/225.1.2.153:10936
+#EXTINF:-1 ,CCTV5
+http://win88.eu.org:7088/udp/225.1.2.198:11392
+#EXTINF:-1 ,CCTV5+
+http://win88.eu.org:7088/udp/225.1.2.48:10282
+#EXTINF:-1 ,CCTV6
+http://win88.eu.org:7088/udp/225.1.2.143:10876
+#EXTINF:-1 ,CCTV7
+http://win88.eu.org:7088/udp/225.1.2.4:10018
+#EXTINF:-1 ,CCTV7
+http://win88.eu.org:7088/udp/225.1.2.79:10468
+#EXTINF:-1 ,CCTV8
+http://win88.eu.org:7088/udp/225.1.2.144:10882
+#EXTINF:-1 ,CCTV9
+http://win88.eu.org:7088/udp/225.1.2.5:10024
+#EXTINF:-1 ,CCTV9
+http://win88.eu.org:7088/udp/225.1.2.80:10474
+#EXTINF:-1 ,CCTV10
+http://win88.eu.org:7088/udp/225.1.2.6:10030
+#EXTINF:-1 ,CCTV10
+http://win88.eu.org:7088/udp/225.1.2.81:10480
+#EXTINF:-1 ,CCTV11
+http://win88.eu.org:7088/udp/225.1.2.220:11434
+#EXTINF:-1 ,CCTV11
+http://win88.eu.org:7088/udp/225.1.2.7:10036
+#EXTINF:-1 ,CCTV12
+http://win88.eu.org:7088/udp/225.1.2.8:10042
+#EXTINF:-1 ,CCTV12
+http://win88.eu.org:7088/udp/225.1.2.82:10486
+#EXTINF:-1 ,CCTV13
+http://win88.eu.org:7088/udp/225.1.2.74:11584
+#EXTINF:-1 ,CCTV13
+http://win88.eu.org:7088/udp/225.1.2.9:10048
+#EXTINF:-1 ,CCTV14
+http://win88.eu.org:7088/udp/225.1.2.10:10054
+#EXTINF:-1 ,CCTV14
+http://win88.eu.org:7088/udp/225.1.2.83:10492
+#EXTINF:-1 ,CCTV15
+http://win88.eu.org:7088/udp/225.1.2.11:10060
+#EXTINF:-1 ,CCTV15
+http://win88.eu.org:7088/udp/225.1.2.221:11440
+#EXTINF:-1 ,CCTV17
+http://win88.eu.org:7088/udp/225.1.2.217:11236
+#EXTINF:-1 ,CCTV17
+http://win88.eu.org:7088/udp/225.1.2.53:10312
+#EXTINF:-1 ,CCTV新闻
+http://win88.eu.org:7088/udp/225.1.2.171:11044
+#EXTINF:-1 ,CETV1
+http://win88.eu.org:7088/udp/225.1.2.94:10558
+#EXTINF:-1 ,CETV2
+http://win88.eu.org:7088/udp/225.1.2.149:10912
+#EXTINF:-1 ,CETV4
+http://win88.eu.org:7088/udp/225.1.2.95:10564
+#EXTINF:-1 ,CGTN阿语
+http://win88.eu.org:7088/udp/225.1.2.188:11854
+#EXTINF:-1 ,CGTN俄语
+http://win88.eu.org:7088/udp/225.1.2.189:11860
+#EXTINF:-1 ,CGTN6英语
+http://win88.eu.org:7088/udp/225.1.2.12:10066
+#EXTINF:-1 ,CGTN7英语
+http://win88.eu.org:7088/udp/225.1.2.184:11830
+#EXTINF:-1 ,CGTN9纪录片
+http://win88.eu.org:7088/udp/225.1.2.185:11836
+#EXTINF:-1 ,CGTN11西班牙语
+http://win88.eu.org:7088/udp/225.1.2.186:11842
+#EXTINF:-1 ,CGTN13法语
+http://win88.eu.org:7088/udp/225.1.2.187:11848
+#EXTINF:-1 ,CHC动作电影
+http://win88.eu.org:7088/udp/225.1.2.215:11428
+#EXTINF:-1 ,CHC家庭影院
+http://win88.eu.org:7088/udp/225.1.2.214:11422
+#EXTINF:-1 ,CHC影迷电影
+http://win88.eu.org:7088/udp/225.1.2.210:11398
+#EXTINF:-1 ,安徽卫视
+http://win88.eu.org:7088/udp/225.1.2.16:10090
+#EXTINF:-1 ,安徽卫视
+http://win88.eu.org:7088/udp/225.1.2.88:10522
+#EXTINF:-1 ,北京卫视
+http://win88.eu.org:7088/udp/225.1.2.17:10096
+#EXTINF:-1 ,北京卫视
+http://win88.eu.org:7088/udp/225.1.2.49:10288
+#EXTINF:-1 ,兵团卫视
+http://win88.eu.org:7088/udp/225.1.2.98:10582
+#EXTINF:-1 ,东方卫视
+http://win88.eu.org:7088/udp/225.1.2.29:10168
+#EXTINF:-1 ,东方卫视
+http://win88.eu.org:7088/udp/225.1.2.86:10510
+#EXTINF:-1 ,东南卫视
+http://win88.eu.org:7088/udp/225.1.2.226:11470
+#EXTINF:-1 ,东南卫视
+http://win88.eu.org:7088/udp/225.1.2.31:10180
+#EXTINF:-1 ,甘肃卫视
+http://win88.eu.org:7088/udp/225.1.2.44:10258
+#EXTINF:-1 ,广东卫视
+http://win88.eu.org:7088/udp/225.1.2.151:10924
+#EXTINF:-1 ,广东卫视
+http://win88.eu.org:7088/udp/225.1.2.33:10192
+#EXTINF:-1 ,广西卫视
+http://win88.eu.org:7088/udp/225.1.2.34:10198
+#EXTINF:-1 ,贵州卫视
+http://win88.eu.org:7088/udp/225.1.2.109:11632
+#EXTINF:-1 ,贵州卫视
+http://win88.eu.org:7088/udp/225.1.2.26:10150
+#EXTINF:-1 ,海南卫视
+http://win88.eu.org:7088/udp/225.1.2.107:11620
+#EXTINF:-1 ,海南卫视
+http://win88.eu.org:7088/udp/225.1.2.40:10234
+#EXTINF:-1 ,河北卫视
+http://win88.eu.org:7088/udp/225.1.2.106:11614
+#EXTINF:-1 ,河北卫视
+http://win88.eu.org:7088/udp/225.1.2.32:10186
+#EXTINF:-1 ,河南卫视
+http://win88.eu.org:7088/udp/225.1.2.181:11104
+#EXTINF:-1 ,河南卫视
+http://win88.eu.org:7088/udp/225.1.2.22:10126
+#EXTINF:-1 ,河南卫视
+http://win88.eu.org:7088/udp/225.1.2.99:10588
+#EXTINF:-1 ,黑龙江卫视
+http://win88.eu.org:7088/udp/225.1.2.23:10132
+#EXTINF:-1 ,黑龙江卫视
+http://win88.eu.org:7088/udp/225.1.2.92:10546
+#EXTINF:-1 ,湖北卫视
+http://win88.eu.org:7088/udp/225.1.2.28:10162
+#EXTINF:-1 ,湖北卫视
+http://win88.eu.org:7088/udp/225.1.2.90:10534
+#EXTINF:-1 ,湖南卫视
+http://win88.eu.org:7088/udp/225.1.2.13:10072
+#EXTINF:-1 ,湖南卫视
+http://win88.eu.org:7088/udp/225.1.2.50:10294
+#EXTINF:-1 ,吉林卫视
+http://win88.eu.org:7088/udp/225.1.2.105:11608
+#EXTINF:-1 ,吉林卫视
+http://win88.eu.org:7088/udp/225.1.2.35:10204
+#EXTINF:-1 ,江苏卫视
+http://win88.eu.org:7088/udp/225.1.2.15:10084
+#EXTINF:-1 ,江苏卫视
+http://win88.eu.org:7088/udp/225.1.2.84:10498
+#EXTINF:-1 ,江西卫视
+http://win88.eu.org:7088/udp/225.1.2.25:10144
+#EXTINF:-1 ,江西卫视
+http://win88.eu.org:7088/udp/225.1.2.77:11602
+#EXTINF:-1 ,辽宁卫视
+http://win88.eu.org:7088/udp/225.1.2.152:10930
+#EXTINF:-1 ,辽宁卫视
+http://win88.eu.org:7088/udp/225.1.2.19:10108
+#EXTINF:-1 ,内蒙古卫视
+http://win88.eu.org:7088/udp/225.1.2.38:10222
+#EXTINF:-1 ,宁夏卫视
+http://win88.eu.org:7088/udp/225.1.2.41:10240
+#EXTINF:-1 ,青海卫视
+http://win88.eu.org:7088/udp/225.1.2.39:10228
+#EXTINF:-1 ,厦门卫视
+http://win88.eu.org:7088/udp/225.1.2.96:10570
+#EXTINF:-1 ,山东教育卫视
+http://win88.eu.org:7088/udp/225.1.2.150:10918
+#EXTINF:-1 ,山东卫视
+http://win88.eu.org:7088/udp/225.1.2.20:10114
+#EXTINF:-1 ,山东卫视
+http://win88.eu.org:7088/udp/225.1.2.89:10528
+#EXTINF:-1 ,山西卫视
+http://win88.eu.org:7088/udp/225.1.2.37:10216
+#EXTINF:-1 ,陕西卫视
+http://win88.eu.org:7088/udp/225.1.2.36:10210
+#EXTINF:-1 ,深圳卫视
+http://win88.eu.org:7088/udp/225.1.2.27:10156
+#EXTINF:-1 ,深圳卫视
+http://win88.eu.org:7088/udp/225.1.2.91:10540
+#EXTINF:-1 ,三沙卫视
+http://win88.eu.org:7088/udp/225.1.2.225:11464
+#EXTINF:-1 ,四川卫视
+http://win88.eu.org:7088/udp/225.1.2.108:11626
+#EXTINF:-1 ,四川卫视
+http://win88.eu.org:7088/udp/225.1.2.24:10138
+#EXTINF:-1 ,天津卫视
+http://win88.eu.org:7088/udp/225.1.2.18:10102
+#EXTINF:-1 ,天津卫视
+http://win88.eu.org:7088/udp/225.1.2.87:10516
+#EXTINF:-1 ,西藏卫视
+http://win88.eu.org:7088/udp/225.1.2.42:10246
+#EXTINF:-1 ,新疆卫视
+http://win88.eu.org:7088/udp/225.1.2.43:10252
+#EXTINF:-1 ,云南卫视
+http://win88.eu.org:7088/udp/225.1.2.21:10120
+#EXTINF:-1 ,云南卫视
+http://win88.eu.org:7088/udp/225.1.2.76:11596
+#EXTINF:-1 ,浙江卫视
+http://win88.eu.org:7088/udp/225.1.2.14:11362
+#EXTINF:-1 ,浙江卫视
+http://win88.eu.org:7088/udp/225.1.2.85:10504
+#EXTINF:-1 ,重庆卫视
+http://win88.eu.org:7088/udp/225.1.2.30:10174
+#EXTINF:-1 ,重庆卫视
+http://win88.eu.org:7088/udp/225.1.2.75:11590
+#EXTINF:-1 ,茶频道
+http://win88.eu.org:7088/udp/225.1.2.175:11740
+#EXTINF:-1 ,车迷频道
+http://win88.eu.org:7088/udp/225.1.2.206:11794
+#EXTINF:-1 ,随机播放
+http://win88.eu.org:7088/udp/225.1.2.52:10306
+#EXTINF:-1 ,电视剧频道
+http://win88.eu.org:7088/udp/225.1.2.59:10348
+#EXTINF:-1 ,电影
+http://win88.eu.org:7088/udp/225.1.2.163:10996
+#EXTINF:-1 ,动漫秀场
+http://win88.eu.org:7088/udp/225.1.2.147:11728
+#EXTINF:-1 ,都市剧场
+http://win88.eu.org:7088/udp/225.1.2.139:11716
+#EXTINF:-1 ,都市频道
+http://win88.eu.org:7088/udp/225.1.2.56:10330
+#EXTINF:-1 ,法制频道
+http://win88.eu.org:7088/udp/225.1.2.58:10342
+#EXTINF:-1 ,法制天地
+http://win88.eu.org:7088/udp/225.1.2.207:11800
+#EXTINF:-1 ,风尚购物
+http://win88.eu.org:7088/udp/225.1.2.235:11518
+#EXTINF:-1 ,风尚购物
+http://win88.eu.org:7088/udp/225.1.2.244:11926
+#EXTINF:-1 ,高清测试
+http://win88.eu.org:7088/udp/225.1.2.160:10978
+#EXTINF:-1 ,录播
+http://win88.eu.org:7088/udp/225.1.2.161:10984
+#EXTINF:-1 ,录播1
+http://win88.eu.org:7088/udp/225.1.2.162:10990
+#EXTINF:-1 ,歌曲
+http://win88.eu.org:7088/udp/225.1.2.158:10966
+#EXTINF:-1 ,公共频道
+http://win88.eu.org:7088/udp/225.1.2.62:10366
+#EXTINF:-1 ,国学频道
+http://win88.eu.org:7088/udp/225.1.2.129:11674
+#EXTINF:-1 ,好享购物
+http://win88.eu.org:7088/udp/225.1.2.231:11500
+#EXTINF:-1 ,河南国际
+http://win88.eu.org:7088/udp/225.1.2.103:10612
+#EXTINF:-1 ,河南戏曲
+http://win88.eu.org:7088/udp/225.1.2.100:10594
+#EXTINF:-1 ,华数TV电视剧
+http://win88.eu.org:7088/udp/225.1.2.51:10300
+#EXTINF:-1 ,华数TV电视剧1
+http://win88.eu.org:7088/udp/225.1.2.145:10888
+#EXTINF:-1 ,华数TV电影
+http://win88.eu.org:7088/udp/225.1.2.155:10948
+#EXTINF:-1 ,华数测试
+http://win88.eu.org:7088/udp/225.1.2.196:11194
+#EXTINF:-1 ,华数电视剧
+http://win88.eu.org:7088/udp/225.1.2.168:11026
+#EXTINF:-1 ,华数电影
+http://win88.eu.org:7088/udp/225.1.2.236:11524
+#EXTINF:-1 ,华数电影1
+http://win88.eu.org:7088/udp/225.1.2.167:11020
+#EXTINF:-1 ,华数电视剧
+http://win88.eu.org:7088/udp/225.1.2.173:11056
+#EXTINF:-1 ,华数动画
+http://win88.eu.org:7088/udp/225.1.2.172:11050
+#EXTINF:-1 ,欢腾购物
+http://win88.eu.org:7088/udp/225.1.2.61:10360
+#EXTINF:-1 ,欢腾购物1
+http://win88.eu.org:7088/udp/225.1.2.73:11578
+#EXTINF:-1 ,欢笑剧场
+http://win88.eu.org:7088/udp/225.1.2.140:11722
+#EXTINF:-1 ,环球旅游
+http://win88.eu.org:7088/udp/225.1.2.204:11782
+#EXTINF:-1 ,纪实人文
+http://win88.eu.org:7088/udp/225.1.2.154:10942
+#EXTINF:-1 ,家庭理财
+http://win88.eu.org:7088/udp/225.1.2.176:11746
+#EXTINF:-1 ,家有购物
+http://win88.eu.org:7088/udp/225.1.2.229:11488
+#EXTINF:-1 ,家有购物1
+http://win88.eu.org:7088/udp/225.1.2.240:11896
+#EXTINF:-1 ,健康
+http://win88.eu.org:7088/udp/225.1.2.159:10972
+#EXTINF:-1 ,健康河南
+http://win88.eu.org:7088/udp/225.1.2.242:11914
+#EXTINF:-1 ,健康频道
+http://win88.eu.org:7088/udp/225.1.2.165:11008
+#EXTINF:-1 ,金色学堂
+http://win88.eu.org:7088/udp/225.1.2.201:11764
+#EXTINF:-1 ,金鹰纪实
+http://win88.eu.org:7088/udp/225.1.2.97:10576
+#EXTINF:-1 ,金鹰卡通
+http://win88.eu.org:7088/udp/225.1.2.46:10270
+#EXTINF:-1 ,聚鲨环球精选
+http://win88.eu.org:7088/udp/225.1.2.230:11494
+#EXTINF:-1 ,军事纪实
+http://win88.eu.org:7088/udp/225.1.2.164:11002
+#EXTINF:-1 ,卡酷少儿
+http://win88.eu.org:7088/udp/225.1.2.45:10264
+#EXTINF:-1 ,科学动物园
+http://win88.eu.org:7088/udp/225.1.2.170:11038
+#EXTINF:-1 ,快乐垂钓
+http://win88.eu.org:7088/udp/225.1.2.174:11740
+#EXTINF:-1 ,快乐购
+http://win88.eu.org:7088/udp/225.1.2.234:11512
+#EXTINF:-1 ,乐游
+http://win88.eu.org:7088/udp/225.1.2.199:11752
+#EXTINF:-1 ,蒙佳卡通
+http://win88.eu.org:7088/udp/225.1.2.93:10552
+#EXTINF:-1 ,民生频道
+http://win88.eu.org:7088/udp/225.1.2.57:10336
+#EXTINF:-1 ,濮阳公共
+http://win88.eu.org:7088/udp/225.1.2.113:10696
+#EXTINF:-1 ,濮阳综合
+http://win88.eu.org:7088/udp/225.1.2.112:10690
+#EXTINF:-1 ,人与自然
+http://win88.eu.org:7088/udp/225.1.2.166:11014
+#EXTINF:-1 ,收藏天下
+http://win88.eu.org:7088/udp/225.1.2.101:10600
+#EXTINF:-1 ,戏曲频道
+http://win88.eu.org:7088/udp/225.1.2.169:11032
+#EXTINF:-1 ,先锋兵羽
+http://win88.eu.org:7088/udp/225.1.2.213:11416
+#EXTINF:-1 ,乡村频道
+http://win88.eu.org:7088/udp/225.1.2.104:10618
+#EXTINF:-1 ,新动漫
+http://win88.eu.org:7088/udp/225.1.2.211:11404
+#EXTINF:-1 ,新闻频道
+http://win88.eu.org:7088/udp/225.1.2.60:10354
+#EXTINF:-1 ,移动电视
+http://win88.eu.org:7088/udp/225.1.2.190:11866
+#EXTINF:-1 ,优购物
+http://win88.eu.org:7088/udp/225.1.2.243:11920
+#EXTINF:-1 ,优优宝贝
+http://win88.eu.org:7088/udp/225.1.2.203:11776
+#EXTINF:-1 ,游戏风云
+http://win88.eu.org:7088/udp/225.1.2.200:11758
+#EXTINF:-1 ,中广购物
+http://win88.eu.org:7088/udp/225.1.2.233:11506
+#EXTINF:-1 ,中华功夫
+http://win88.eu.org:7088/udp/225.1.2.102:10606
+#EXTINF:-1 ,中华特产
+http://win88.eu.org:7088/udp/225.1.2.205:11788
